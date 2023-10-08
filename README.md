@@ -1,5 +1,9 @@
 # Student Management System
 
+## Language and Framework
+![Java](https://img.shields.io/badge/Language-Java-green)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen)
+
 ## Description
 The Student Management System is designed to interact with different entities and manage relationships between them efficiently. This system allows you to manage student information, addresses, books, courses, laptops, and their associations.
 
